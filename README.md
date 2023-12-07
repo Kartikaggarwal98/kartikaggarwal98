@@ -5,7 +5,7 @@ I am Kartik, a ML + Math enthusiast working at Washington Post as Data Scientist
 
 #### Currently, I am 
 
-1. Understanding how smart are large language models, and how to make them smarter.
+1. Understanding how generalized are large language models, and how to make them better.
 2. Building end-to-end pipelines for serving LLMs at scale.
 
 [![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikaggarwal98)](https://github.com/kartikaggarwal98/github-readme-stats)
